@@ -26,23 +26,14 @@ The system is designed for production QC teams to record carton condition, bag w
 ### Home Page
 ![Home Page](assets/home_page.png)
 
-### Start QC for New Carton
-![Start QC](assets/start_qc_for_new_carton.jpg)
-
 ### Start New Inspection Form
 ![Start New Inspection](assets/start_new_inspection.png)
 
 ### Digital Weight Scale Popup
 ![Digital Weight Scale Popup](assets/digital_weight_scale_popup.png)
 
-### Failed Cartons Monitor
-![Failed Cartons Monitor](assets/failed_cartons_monitor.jpg)
-
 ### Failed Cartons Overview
 ![Failed Cartons Overview](assets/failed_cartons_overview.png)
-
-### Dashboard
-![Dashboard](assets/dashboard_failed_cartons.jpg)
 
 ### Inspection History
 ![Inspection History](assets/inspection_history.png)
